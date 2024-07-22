@@ -1,0 +1,9 @@
+{
+    "templates" : [
+        {"story" : "Write a short story about {item}"} ,
+        {"product" : ""} ,
+        {"fd" : ""} ,
+        {"quote" : ""} ,
+        {"article" : ""} 
+    ]
+}
